@@ -2,7 +2,7 @@
 #include <stdio.h>
 //add test line1
 //add test line2
-//add test line3
+
 int main(int argc, char** argv) {
     // Initialize the MPI environment
     MPI_Init(NULL, NULL);
