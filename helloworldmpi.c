@@ -1,6 +1,7 @@
 #include <mpi.h>
 #include <stdio.h>
-
+//Welcome to OA add line1
+//Welcome to OA add line2
 int main(int argc, char** argv) {
     // Initialize the MPI environment
     MPI_Init(NULL, NULL);
